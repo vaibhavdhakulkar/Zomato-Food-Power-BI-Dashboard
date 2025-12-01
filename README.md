@@ -91,4 +91,8 @@ Demographics
 
 It supports strategic decision-making in customer retention, location expansion, marketing opportunities, and service improvement.
 
+<img width="1835" height="1038" alt="Screenshot 2025-12-01 124842" src="https://github.com/user-attachments/assets/0cc461d4-6338-4833-8b4c-42fc1815b49e" />
+
+<img width="1830" height="1033" alt="Screenshot 2025-12-01 124902" src="https://github.com/user-attachments/assets/f5374bfa-186c-4354-82e9-1d40347c4396" />
+
 <img width="1839" height="1038" alt="Screenshot 2025-12-01 124916" src="https://github.com/user-attachments/assets/3925bc86-1b8b-4a5c-8578-61a491da2029" />
